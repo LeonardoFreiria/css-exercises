@@ -1,0 +1,13 @@
+.click-me-button {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+
+.second-click-me-button {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.click-me-button, .second-click-me-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
